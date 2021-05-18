@@ -2,8 +2,6 @@
 
 ## Smart Contracts for the [DeFier](https://www.DeFier.io/) Token
 
-#### Please make sure the .env file is up to date before starting.
-
 ### Concerning the contracts:
 
 - We use [openZepplin SDK](https://openzeppelin.com/sdk/) compiling, deploying, and interacting with reusable and secure Smart Contracts
